@@ -7,7 +7,7 @@ one implementation at a time.
 
 ## Work in Progress
 
-* [Rust](https://github.com/DecisionRecords/rust-decision-records)
+* [Rust](https://github.com/DecisionRecords/rust-decision-records) ([v0.0.1 released](https://github.com/DecisionRecords/rust-decision-records/releases))
 * [Bash](https://github.com/DecisionRecords/bash-decision-records)
 * [Javascript](https://github.com/DecisionRecords/javascript-decision-records)
 
