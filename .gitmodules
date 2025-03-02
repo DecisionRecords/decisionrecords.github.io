@@ -1,3 +1,0 @@
-[submodule "tools/bash"]
-	path = tools/bash
-	url = https://github.com/DecisionRecords/bash-decision-records
